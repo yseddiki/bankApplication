@@ -15,7 +15,6 @@ namespace SuperviseurApi.Controllers
             accountService = _accountService;
         }
         [Route("create")]
-        
         [HttpPost]
         public async Task<IActionResult> Create([FromBody] Account account)
         {
