@@ -1,0 +1,16 @@
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.csproj.SuggestedBindingRedirects.cache
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.Form1.resources
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\Client.exe.config
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\Client.exe
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\Client.pdb
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.exe
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.pdb
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Youssef Seddiki\Desktop\ECOLE\Quadrimestre 5\Banque\formBankTransfersClient\Client\Client\obj\Debug\Client.csproj.CopyComplete
